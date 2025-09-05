@@ -1,13 +1,12 @@
 {
-  "title": "Które kraje UE oferują najlepsze perspektywy zatrudnienia?",
-  "subtitle": "Szacuje się, że przyszły wzrost zatrudnienia w tych krajach w latach 2022–2035 wyniesie 5,6%.",
+  "title": "Jakie będą wpływy z budżetu UE w 2023 roku?",
+  "subtitle": "W 2023 r. średnie przychody wyniosły aż 5,3 mld euro.",
   "textNoteDescription": "Notatka",
-  "textNote": "sdchdc",
+  "textNote": "Wśród beneficjentów, w pierwszej piątce znalazła się Polska, obok „Wielkiej Czwórki” UE. Francja otrzymała 16,5 mld euro, następnie Polska (14,1 mld euro), Niemcy (14 mld euro), Włochy (12,8 mld euro) i Hiszpania (12,1 mld euro). Luksemburg nie jest wizualizowany i otrzymuje miesięcznie 312 euro na osobę.",
   "textSourceDescription": "Źródło",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Uzyskaj dostęp do danych",
-  "extraInfo_DE": "Niemcy przyspieszają wdrażanie energii odnawialnej, dążąc do 80% czystej energii do 2030 r.",
-  "extraInfo_FR": "Parlament francuski zatwierdza projekt ustawy o dużej reformie imigracyjnej w obliczu ogólnokrajowych protestów",
+  "textSource": "Euronews",
+  "linkDataAccessDescription": "Dostęp do danych",
   "legend1": "Brak dostępnych danych",
-  "tooltipExtraInfoLabel": "Kliknij tutaj"
+  "tooltipExtraInfoLabel": "Kliknij tutaj",
+  "customUnitLabel": "€ za osobę miesięcznie"
 }
