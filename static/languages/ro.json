@@ -1,13 +1,12 @@
 {
-  "title": "Care țări UE oferă cele mai bune perspective de angajare?",
-  "subtitle": "Creșterea viitoare a ocupării forței de muncă în aceste țări în perioada 2022-2035 este estimată la 5,6%.",
+  "title": "Cât de mari sunt încasările din bugetul UE în 2023?",
+  "subtitle": "Începând cu 2023, încasările medii au ajuns la 5,3 miliarde EUR.",
   "textNoteDescription": "Nota",
-  "textNote": "sdchdc",
+  "textNote": "Printre beneficiari, primii cinci au inclus Polonia, alături de „cei patru mari” ai UE. Franța a primit 16,5 miliarde de euro, urmată de Polonia (14,1 miliarde de euro), apoi Germania (14 miliarde de euro), Italia (12,8 miliarde de euro) și Spania (12,1 miliarde de euro). Luxemburgul nu este vizualizat și primește o sumă lunară de 312 euro pe persoană.",
   "textSourceDescription": "Sursă",
-  "textSource": "sdcshdc",
+  "textSource": "Euronews",
   "linkDataAccessDescription": "Accesați datele",
-  "extraInfo_DE": "Germania accelerează lansarea energiei regenerabile, țintește 80% energie curată până în 2030",
-  "extraInfo_FR": "Parlamentul francez aprobă un proiect de lege major de reformă a imigrației pe fondul protestelor la nivel național",
-  "legend1": "Nu există date disponibile",
-  "tooltipExtraInfoLabel": "Click aici"
+  "legend1": "Nu sunt disponibile date",
+  "tooltipExtraInfoLabel": "Click aici",
+  "customUnitLabel": "€ pe persoană pe lună"
 }
