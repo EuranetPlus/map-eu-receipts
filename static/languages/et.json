@@ -1,13 +1,12 @@
 {
-  "title": "Millised ELi riigid pakuvad parimaid töövõimalusi?",
-  "subtitle": "Nendes riikides on edaspidine tööhõive kasv aastatel 2022–2035 hinnanguliselt 5,6%.",
+  "title": "Kui suured on laekumised ELi eelarvest 2023. aastal?",
+  "subtitle": "2023. aasta seisuga olid keskmised tulud koguni 5,3 miljardit eurot.",
   "textNoteDescription": "Märkus",
-  "textNote": "sdchdc",
+  "textNote": "Abisaajate hulgas oli viie suurima hulgas Poola koos ELi „Suure Nelikuga“. Prantsusmaa sai 16,5 miljardit eurot, millele järgnesid Poola (14,1 miljardit eurot), seejärel Saksamaa (14 miljardit eurot), Itaalia (12,8 miljardit eurot) ja Hispaania (12,1 miljardit eurot). Luksemburgi ei ole visualiseeritud ja see saab inimese kohta kuus 312 eurot.",
   "textSourceDescription": "Allikas",
-  "textSource": "sdcshdc",
+  "textSource": "Euronews",
   "linkDataAccessDescription": "Juurdepääs andmetele",
-  "extraInfo_DE": "Saksamaa kiirendab taastuvenergia kasutuselevõttu, seab eesmärgiks 80% puhta energia kasutamise aastaks 2030",
-  "extraInfo_FR": "Prantsusmaa parlament kiitis üleriigiliste protestide taustal heaks immigratsioonireformi seaduse eelnõu",
-  "legend1": "Andmed puuduvad",
-  "tooltipExtraInfoLabel": "Klõpsake siin"
+  "legend1": "Andmed pole saadaval",
+  "tooltipExtraInfoLabel": "Kliki siia",
+  "customUnitLabel": "€ inimese kohta kuus"
 }
