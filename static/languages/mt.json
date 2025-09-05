@@ -1,13 +1,12 @@
 {
-  "title": "Liema pajjiżi tal-UE joffru l-aħjar prospetti ta' impjieg?",
-  "subtitle": "It-tkabbir futur fl-impjiegi f'dawn il-pajjiżi fl-2022-2035 huwa stmat għal 5.6%.",
+  "title": "Kemm huma għoljin id-dħul mill-baġit tal-UE fl-2023?",
+  "subtitle": "Mill-2023 'l hawn, id-dħul medju laħaq il-€5.3 biljun.",
   "textNoteDescription": "Nota",
-  "textNote": "sdchdc",
+  "textNote": "Fost il-benefiċjarji, l-aqwa ħamsa kienu jinkludu l-Polonja flimkien mal-'Big Four' tal-UE. Franza rċeviet €16.5 biljun, segwita mill-Polonja (€14.1 biljun), imbagħad il-Ġermanja (€14-il biljun), l-Italja (€12.8 biljun), u Spanja (€12.1 biljun). Il-Lussemburgu mhux viżwalizzat u jirċievi €312 fix-xahar għal kull persuna.",
   "textSourceDescription": "Sors",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Aċċessa għad-data",
-  "extraInfo_DE": "Il-Ġermanja Tħaffef il-Ħruġ tal-Enerġija Rinnovabbli, Timmira 80% Enerġija Nadifa sal-2030",
-  "extraInfo_FR": "Il-Parlament Franċiż Japprova Abbozz ta' Liġi ta' Riforma Maġġuri fl-Immigrazzjoni Fost Protesti Nazzjonali",
+  "textSource": "Euronews",
+  "linkDataAccessDescription": "Aċċessa d-dejta",
   "legend1": "L-ebda dejta disponibbli",
-  "tooltipExtraInfoLabel": "Ikklikkja hawn"
+  "tooltipExtraInfoLabel": "Ikklikkja hawn",
+  "customUnitLabel": "€ għal kull persuna fix-xahar"
 }
