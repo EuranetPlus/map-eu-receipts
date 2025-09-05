@@ -1,13 +1,12 @@
 {
-  "title": "Ktoré krajiny EÚ ponúkajú najlepšie vyhliadky na zamestnanie?",
-  "subtitle": "Budúci rast zamestnanosti v týchto krajinách v rokoch 2022-2035 sa odhaduje na 5,6 %.",
+  "title": "Aké vysoké sú príjmy z rozpočtu EÚ v roku 2023?",
+  "subtitle": "V roku 2023 dosahovali priemerné príjmy až 5,3 miliardy €.",
   "textNoteDescription": "Poznámka",
-  "textNote": "sdchdc",
+  "textNote": "Medzi piatimi najväčšími príjemcami bolo Poľsko spolu s „veľkou štvorkou“ EÚ. Francúzsko dostalo 16,5 miliardy eur, nasledovalo Poľsko (14,1 miliardy eur), Nemecko (14 miliárd eur), Taliansko (12,8 miliardy eur) a Španielsko (12,1 miliardy eur). Luxembursko nie je zahrnuté a mesačne dostáva 312 eur na osobu.",
   "textSourceDescription": "Zdroj",
-  "textSource": "sdcshdc",
+  "textSource": "Euronews",
   "linkDataAccessDescription": "Prístup k údajom",
-  "extraInfo_DE": "Nemecko urýchľuje zavádzanie energie z obnoviteľných zdrojov a do roku 2030 má za cieľ dosiahnuť 80 % čistej energie",
-  "extraInfo_FR": "Francúzsky parlament počas celonárodných protestov schválil návrh zákona o veľkej imigračnej reforme",
   "legend1": "Nie sú k dispozícii žiadne údaje",
-  "tooltipExtraInfoLabel": "Kliknite sem"
+  "tooltipExtraInfoLabel": "Kliknite sem",
+  "customUnitLabel": "€ na osobu mesačne"
 }
