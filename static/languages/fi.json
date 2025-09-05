@@ -1,13 +1,12 @@
 {
-  "title": "Mitkä EU-maat tarjoavat parhaat työllisyysnäkymät?",
-  "subtitle": "Näissä maissa tulevaisuudessa työllisyyden kasvun arvioidaan olevan 5,6 % vuosina 2022-2035.",
-  "textNoteDescription": "Huom",
-  "textNote": "sdchdc",
+  "title": "Kuinka suuret tulot EU:n budjetista ovat vuonna 2023?",
+  "subtitle": "Vuonna 2023 keskimääräiset tulot olivat jopa 5,3 miljardia euroa.",
+  "textNoteDescription": "Huomautus",
+  "textNote": "Tuensaajien joukossa viiden suurimman joukossa oli Puola EU:n 'neljän suuren' ohella. Ranska sai 16,5 miljardia euroa, jota seurasivat Puola (14,1 miljardia euroa), Saksa (14 miljardia euroa), Italia (12,8 miljardia euroa) ja Espanja (12,1 miljardia euroa). Luxemburgia ei ole visualisoitu, ja se saa 312 euroa kuukaudessa henkeä kohden.",
   "textSourceDescription": "Lähde",
-  "textSource": "sdcshdc",
+  "textSource": "Euronews",
   "linkDataAccessDescription": "Käytä tietoja",
-  "extraInfo_DE": "Saksa nopeuttaa uusiutuvan energian käyttöönottoa ja tavoittelee 80 % puhdasta sähköä vuoteen 2030 mennessä",
-  "extraInfo_FR": "Ranskan parlamentti hyväksyi suuren maahanmuuttouudistuksen valtakunnallisten mielenosoitusten keskellä",
-  "legend1": "Tietoja ei ole saatavilla",
-  "tooltipExtraInfoLabel": "Klikkaa tästä"
+  "legend1": "Ei tietoja saatavilla",
+  "tooltipExtraInfoLabel": "Klikkaa tästä",
+  "customUnitLabel": "€ henkilöä kohden kuukaudessa"
 }
