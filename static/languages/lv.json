@@ -1,13 +1,12 @@
 {
-  "title": "Kuras ES valstis piedāvā vislabākās nodarbinātības izredzes?",
-  "subtitle": "Nākotnes nodarbinātības pieaugums šajās valstīs 2022.-2035.gadā tiek lēsts 5,6% apmērā.",
+  "title": "Cik lieli ir ieņēmumi no ES budžeta 2023. gadā?",
+  "subtitle": "Sākot ar 2023. gadu, vidējie ieņēmumi sasniedza pat 5,3 miljardus eiro.",
   "textNoteDescription": "Piezīme",
-  "textNote": "sdchdc",
+  "textNote": "Starp pieciem lielākajiem saņēmējiem bija Polija līdzās ES 'lielajam četriniekam'. Francija saņēma 16,5 miljardus eiro, kam sekoja Polija (14,1 miljards eiro), tad Vācija (14 miljardi eiro), Itālija (12,8 miljardi eiro) un Spānija (12,1 miljards eiro). Luksemburga nav vizualizēta, un tā saņem 312 eiro mēnesī uz vienu iedzīvotāju.",
   "textSourceDescription": "Avots",
-  "textSource": "sdcshdc",
+  "textSource": "Euronews",
   "linkDataAccessDescription": "Piekļūstiet datiem",
-  "extraInfo_DE": "Vācija paātrina atjaunojamās enerģijas ieviešanu, paredz 80% tīras enerģijas līdz 2030. gadam",
-  "extraInfo_FR": "Francijas parlaments valsts mēroga protestu laikā apstiprina nozīmīgo imigrācijas reformas likumprojektu",
-  "legend1": "Nav pieejami dati",
-  "tooltipExtraInfoLabel": "Noklikšķiniet šeit"
+  "legend1": "Dati nav pieejami",
+  "tooltipExtraInfoLabel": "Noklikšķiniet šeit",
+  "customUnitLabel": "€ vienai personai mēnesī"
 }
