@@ -1,13 +1,12 @@
 {
-  "title": "Welke EU-landen bieden de beste werkgelegenheidsvooruitzichten?",
-  "subtitle": "De toekomstige werkgelegenheidsgroei in deze landen in de periode 2022-2035 wordt geschat op 5,6%.",
+  "title": "Hoe hoog zijn de inkomsten uit de EU-begroting in 2023?",
+  "subtitle": "In 2023 bedroegen de gemiddelde opbrengsten maar liefst 5,3 miljard euro.",
   "textNoteDescription": "Opmerking",
-  "textNote": "sdchdc",
+  "textNote": "Onder de begunstigden bevond zich Polen, naast de 'Grote Vier' van de EU, in de top vijf. Frankrijk ontving € 16,5 miljard, gevolgd door Polen (€ 14,1 miljard), Duitsland (€ 14 miljard), Italië (€ 12,8 miljard) en Spanje (€ 12,1 miljard). Luxemburg is niet zichtbaar en ontvangt per persoon € 312 per maand.",
   "textSourceDescription": "Bron",
-  "textSource": "sdcshdc",
+  "textSource": "Euronews",
   "linkDataAccessDescription": "Toegang tot de gegevens",
-  "extraInfo_DE": "Duitsland versnelt uitrol van hernieuwbare energie, streeft naar 80% schone energie in 2030",
-  "extraInfo_FR": "Frans parlement keurt groot wetsvoorstel immigratiehervorming goed te midden van landelijke protesten",
   "legend1": "Geen gegevens beschikbaar",
-  "tooltipExtraInfoLabel": "Klik hier"
+  "tooltipExtraInfoLabel": "Klik hier",
+  "customUnitLabel": "€ per persoon per maand"
 }
