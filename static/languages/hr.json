@@ -1,13 +1,12 @@
 {
-  "title": "Koje zemlje EU-a nude najbolje izglede za zapošljavanje?",
-  "subtitle": "Budući rast zaposlenosti u tim zemljama u razdoblju 2022. – 2035. procjenjuje se na 5,6%.",
+  "title": "Koliki su prihodi iz proračuna EU u 2023. godini?",
+  "subtitle": "Od 2023. godine prosječni prihodi iznose čak 5,3 milijarde eura.",
   "textNoteDescription": "Bilješka",
-  "textNote": "sdchdc",
+  "textNote": "Među korisnicima, među pet najvećih bila je Poljska, uz 'veliku četvorku' EU-a. Francuska je primila 16,5 milijardi eura, zatim Poljska (14,1 milijardu eura), zatim Njemačka (14 milijardi eura), Italija (12,8 milijardi eura) i Španjolska (12,1 milijardu eura). Luksemburg nije vizualiziran i prima mjesečno 312 eura po osobi.",
   "textSourceDescription": "Izvor",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Pristupite podacima",
-  "extraInfo_DE": "Njemačka ubrzava uvođenje obnovljive energije, cilj je 80% čiste energije do 2030.",
-  "extraInfo_FR": "Francuski parlament odobrio veliki nacrt zakona o useljeničkoj reformi usred prosvjeda diljem zemlje",
+  "textSource": "Euronews",
+  "linkDataAccessDescription": "Pristup podacima",
   "legend1": "Nema dostupnih podataka",
-  "tooltipExtraInfoLabel": "Kliknite ovdje"
+  "tooltipExtraInfoLabel": "Kliknite ovdje",
+  "customUnitLabel": "€ po osobi mjesečno"
 }
