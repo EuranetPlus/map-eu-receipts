@@ -1,13 +1,12 @@
 {
-  "title": "Vilka EU-länder erbjuder de bästa sysselsättningsmöjligheterna?",
-  "subtitle": "Framtida sysselsättningstillväxt i dessa länder 2022-2035 beräknas till 5,6 %.",
+  "title": "Hur stora är intäkterna från EU-budgeten år 2023?",
+  "subtitle": "Från och med 2023 är de genomsnittliga intäkterna så höga som 5,3 miljarder euro.",
   "textNoteDescription": "Notera",
-  "textNote": "sdchdc",
+  "textNote": "Bland mottagarna fanns Polen tillsammans med EU:s 'fyra stora' bland de fem största. Frankrike fick 16,5 miljarder euro, följt av Polen (14,1 miljarder euro), sedan Tyskland (14 miljarder euro), Italien (12,8 miljarder euro och Spanien (12,1 miljarder euro). Luxemburg är inte visualiserad och får 312 euro per månad och person.",
   "textSourceDescription": "Källa",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Få åtkomst till data",
-  "extraInfo_DE": "Tyskland accelererar utbyggnaden av förnybar energi, siktar på 80 % ren kraft till 2030",
-  "extraInfo_FR": "Det franska parlamentet godkänner lagförslaget om stora invandringsreformer under rikstäckande protester",
+  "textSource": "Euronews",
+  "linkDataAccessDescription": "Åtkomst till data",
   "legend1": "Inga data tillgängliga",
-  "tooltipExtraInfoLabel": "Klicka här"
+  "tooltipExtraInfoLabel": "Klicka här",
+  "customUnitLabel": "€ per person och månad"
 }
