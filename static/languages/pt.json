@@ -1,13 +1,12 @@
 {
-  "title": "Quais países da UE oferecem as melhores perspectivas de emprego?",
-  "subtitle": "O crescimento futuro do emprego nesses países entre 2022 e 2035 é estimado em 5,6%.",
+  "title": "Qual será o valor das receitas do orçamento da UE em 2023?",
+  "subtitle": "Em 2023, as receitas médias chegaram a 5,3 bilhões de euros.",
   "textNoteDescription": "Observação",
-  "textNote": "SDCHDC",
+  "textNote": "Entre os cinco maiores beneficiários, a Polônia, juntamente com os 'Quatro Grandes' da UE, está entre os cinco primeiros. A França recebeu € 16,5 bilhões, seguida pela Polônia (€ 14,1 bilhões), Alemanha (€ 14 bilhões), Itália (€ 12,8 bilhões) e Espanha (€ 12,1 bilhões). Luxemburgo não está visualizado e recebe € 312 por mês por pessoa.",
   "textSourceDescription": "Fonte",
-  "textSource": "sdcshdc",
+  "textSource": "Euronews",
   "linkDataAccessDescription": "Acesse os dados",
-  "extraInfo_DE": "Alemanha acelera implementação de energia renovável e tem como meta 80% de energia limpa até 2030",
-  "extraInfo_FR": "Parlamento francês aprova importante projeto de lei de reforma da imigração em meio a protestos em todo o país",
-  "legend1": "Não há dados disponíveis",
-  "tooltipExtraInfoLabel": "Clique aqui"
+  "legend1": "Nenhum dado disponível",
+  "tooltipExtraInfoLabel": "Clique aqui",
+  "customUnitLabel": "€ por pessoa por mês"
 }
