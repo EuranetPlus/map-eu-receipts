@@ -1,13 +1,12 @@
 {
-  "title": "Quels pays de l’UE offrent les meilleures perspectives d’emploi ?",
-  "subtitle": "La croissance future de l’emploi dans ces pays en 2022-2035 est estimée à 5,6 %.",
+  "title": "À combien s’élèveront les recettes du budget de l’UE en 2023 ?",
+  "subtitle": "En 2023, les recettes moyennes s'élèvent à 5,3 milliards €.",
   "textNoteDescription": "Note",
-  "textNote": "sdchdc",
+  "textNote": "Parmi les cinq premiers bénéficiaires, on trouve la Pologne, aux côtés des « Big Four » de l'UE. La France a reçu 16,5 milliards d'euros, suivie de la Pologne (14,1 milliards d'euros), puis de l'Allemagne (14 milliards d'euros), de l'Italie (12,8 milliards d'euros) et de l'Espagne (12,1 milliards d'euros). Le Luxembourg n'est pas visualisé et reçoit 312 euros par mois et par personne.",
   "textSourceDescription": "Source",
-  "textSource": "sdcshdc",
+  "textSource": "Euronews",
   "linkDataAccessDescription": "Accéder aux données",
-  "extraInfo_DE": "L'Allemagne accélère le déploiement des énergies renouvelables et vise 80 % d'énergie propre d'ici 2030",
-  "extraInfo_FR": "Le Parlement français approuve un important projet de loi sur la réforme de l'immigration au milieu de manifestations à l'échelle nationale",
   "legend1": "Aucune donnée disponible",
-  "tooltipExtraInfoLabel": "Cliquez ici"
+  "tooltipExtraInfoLabel": "Cliquez ici",
+  "customUnitLabel": "€ par personne et par mois"
 }
