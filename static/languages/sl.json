@@ -1,13 +1,12 @@
 {
-  "title": "Katere države EU ponujajo najboljše zaposlitvene možnosti?",
-  "subtitle": "Prihodnja rast zaposlenosti v teh državah v letih 2022–2035 je ocenjena na 5,6 %.",
+  "title": "Kako visoki so prihodki iz proračuna EU v letu 2023?",
+  "subtitle": "Povprečni prihodki so leta 2023 znašali kar 5,3 milijarde evrov.",
   "textNoteDescription": "Opomba",
-  "textNote": "sdchdc",
+  "textNote": "Med petimi največjimi upravičenci je bila Poljska skupaj z 'veliko četverico' EU. Francija je prejela 16,5 milijarde evrov, sledile so ji Poljska (14,1 milijarde evrov), Nemčija (14 milijard evrov), Italija (12,8 milijarde evrov) in Španija (12,1 milijarde evrov). Luksemburg ni vključen in prejme 312 evrov na osebo na mesec.",
   "textSourceDescription": "Vir",
-  "textSource": "sdcshdc",
+  "textSource": "Euronews",
   "linkDataAccessDescription": "Dostop do podatkov",
-  "extraInfo_DE": "Nemčija pospešuje uvedbo obnovljive energije, cilj je 80 % čiste energije do leta 2030",
-  "extraInfo_FR": "Francoski parlament je med protesti po vsej državi potrdil predlog zakona o veliki reformi priseljevanja",
-  "legend1": "Ni podatkov",
-  "tooltipExtraInfoLabel": "Kliknite tukaj"
+  "legend1": "Ni na voljo podatkov",
+  "tooltipExtraInfoLabel": "Kliknite tukaj",
+  "customUnitLabel": "€ na osebo na mesec"
 }
