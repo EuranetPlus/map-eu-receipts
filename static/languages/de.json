@@ -1,13 +1,12 @@
 {
-  "title": "Welche EU-Länder bieten die besten Beschäftigungsaussichten?",
-  "subtitle": "Das künftige Beschäftigungswachstum in diesen Ländern im Zeitraum 2022–2035 wird auf 5,6 % geschätzt.",
+  "title": "Wie hoch sind die Einnahmen aus dem EU-Haushalt im Jahr 2023?",
+  "subtitle": "Ab 2023 liegen die durchschnittlichen Einnahmen sogar bei 5,3 Milliarden Euro.",
   "textNoteDescription": "Notiz",
-  "textNote": "sdchdc",
+  "textNote": "Zu den fünf größten Empfängern zählte neben den „Großen Vier“ der EU auch Polen. Frankreich erhielt 16,5 Milliarden Euro, gefolgt von Polen (14,1 Milliarden Euro), Deutschland (14 Milliarden Euro), Italien (12,8 Milliarden Euro) und Spanien (12,1 Milliarden Euro). Luxemburg ist nicht abgebildet und erhält pro Person und Monat 312 Euro.",
   "textSourceDescription": "Quelle",
-  "textSource": "Abonnieren",
+  "textSource": "Euronews",
   "linkDataAccessDescription": "Zugriff auf die Daten",
-  "extraInfo_DE": "Deutschland beschleunigt Ausbau erneuerbarer Energien und strebt bis 2030 80 % sauberen Stromanteil an",
-  "extraInfo_FR": "Französisches Parlament verabschiedet inmitten landesweiter Proteste ein umfassendes Gesetz zur Einwanderungsreform",
   "legend1": "Keine Daten verfügbar",
-  "tooltipExtraInfoLabel": "klicken Sie hier"
+  "tooltipExtraInfoLabel": "klicken Sie hier",
+  "customUnitLabel": "€ pro Person und Monat"
 }
