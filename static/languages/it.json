@@ -1,13 +1,12 @@
 {
-  "title": "Quali paesi dell'UE offrono le migliori prospettive di occupazione?",
-  "subtitle": "Si stima che la crescita futura dell'occupazione in questi paesi nel periodo 2022-2035 sarà del 5,6%.",
+  "title": "A quanto ammonteranno le entrate del bilancio dell'UE nel 2023?",
+  "subtitle": "Nel 2023 le entrate medie raggiungeranno i 5,3 miliardi di €.",
   "textNoteDescription": "Nota",
-  "textNote": "sdchdc",
+  "textNote": "Tra i beneficiari, tra i primi cinque figura la Polonia, insieme ai 'Big Four' dell'UE. La Francia ha ricevuto 16,5 miliardi di euro, seguita dalla Polonia (14,1 miliardi di euro), dalla Germania (14 miliardi di euro), dall'Italia (12,8 miliardi di euro) e dalla Spagna (12,1 miliardi di euro). Il Lussemburgo non è incluso e riceve un importo mensile pro capite di 312 euro.",
   "textSourceDescription": "Fonte",
-  "textSource": "sdcshdc",
+  "textSource": "Euronews",
   "linkDataAccessDescription": "Accedi ai dati",
-  "extraInfo_DE": "La Germania accelera il lancio delle energie rinnovabili, puntando all'80% di energia pulita entro il 2030",
-  "extraInfo_FR": "Il Parlamento francese approva un importante disegno di legge sulla riforma dell'immigrazione tra le proteste nazionali",
   "legend1": "Nessun dato disponibile",
-  "tooltipExtraInfoLabel": "clicca qui"
+  "tooltipExtraInfoLabel": "clicca qui",
+  "customUnitLabel": "€ a persona al mese"
 }
